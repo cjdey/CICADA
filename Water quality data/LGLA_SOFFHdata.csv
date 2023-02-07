@@ -1,0 +1,457 @@
+Station,Latitude,Longitude,Chlmedian,Chlabovet,Condmed,Condabovet,DOmedian,DObelowt,TPmedian,TPabovet,Nitmed,Nitabovet,JAMeanTemp,NHN_TWS,TWS_NAME,OCEANBAS,ON_QWS,NAME
+10000100302,42.24458,-83.07082,206.0,YES,1130.0,YES,5.54,YES,0.105,YES,0.921,NO,23.33,02GH,Cedar,Atlantic Ocean,02GHA02,Turkey Creek - Detroit River
+10000200202,42.15906,-83.01880,132.0,YES,1010.0,YES,8.61,NO,0.153,YES,1.640,NO,25.90,02GH,Cedar,Atlantic Ocean,02GHA03,Canard River
+1010400202,48.48248,-89.18802,,,,,,,,,,,17.78,02AB,Dog,Atlantic Ocean,02AB-01,Current River
+1010600202,48.39966,-89.24544,,,,,,,,,,,19.99,02AB,Dog,Atlantic Ocean,02AB-02,McIntyre River
+1010700202,48.38123,-89.35788,,,,,,,,,,,17.68,02AB,Dog,Atlantic Ocean,02AB-02,McIntyre River
+1010800602,48.32580,-89.40438,,,,,,,,,,,19.36,02AB,Dog,Atlantic Ocean,02AB-03,Oliver Lake - Kaministiquia River
+104001,43.83919,-79.03984,,,,,12.22,NO,,,,,21.70,02HC,Humber - Don,Atlantic Ocean,02HC-08,Duffins Creek
+104008,43.96145,-79.12565,,,,,11.66,NO,,,,,18.21,02HC,Humber - Don,Atlantic Ocean,02HC-08,Duffins Creek
+104023,43.86687,-79.08601,83.2,NO,,,10.63,NO,,,,,19.32,02HC,Humber - Don,Atlantic Ocean,02HC-08,Duffins Creek
+104025,43.85092,-79.07582,47.9,NO,,,11.58,NO,,,,,22.08,02HC,Humber - Don,Atlantic Ocean,02HC-08,Duffins Creek
+104026,43.86966,-79.07430,138.0,YES,,,10.05,NO,,,,,21.58,02HC,Humber - Don,Atlantic Ocean,02HC-08,Duffins Creek
+104027,43.87148,-79.06518,,,,,,,,,,,19.78,02HC,Humber - Don,Atlantic Ocean,02HC-08,Duffins Creek
+104028,43.90776,-79.07292,131.5,YES,,,10.96,NO,,,,,16.89,02HC,Humber - Don,Atlantic Ocean,02HC-08,Duffins Creek
+104029,43.95051,-79.08526,24.9,NO,,,11.64,NO,,,,,17.43,02HC,Humber - Don,Atlantic Ocean,02HC-08,Duffins Creek
+104037,43.93716,-79.20343,93.6,NO,,,11.60,NO,,,,,19.07,02HC,Humber - Don,Atlantic Ocean,02HC-08,Duffins Creek
+11000100502,43.02862,-79.21113,25.6,NO,351.5,NO,9.29,NO,0.045,YES,0.920,NO,0.00,02HA,Niagara,Atlantic Ocean,02HA-02,Welland River
+11000100702,42.97204,-79.31767,38.7,NO,467.5,NO,9.86,NO,0.200,YES,1.650,NO,0.00,02HA,Niagara,Atlantic Ocean,02HA-02,Welland River
+11000101202,43.02133,-79.61771,74.8,NO,722.5,YES,8.66,NO,0.118,YES,1.120,NO,0.00,02HA,Niagara,Atlantic Ocean,02HA-02,Welland River
+11000101302,42.98063,-79.56233,43.1,NO,579.0,YES,8.08,NO,0.520,YES,2.430,NO,0.00,02HA,Niagara,Atlantic Ocean,02HA-02,Welland River
+12007300302,45.14450,-74.57768,,,,,,,,,,,23.49,02MC,Upper St. Lawrence - Raisin,Atlantic Ocean,02MCA06,Raisin River
+12007300802,45.10993,-74.77306,,,,,,,,,,,22.86,02MC,Upper St. Lawrence - Raisin,Atlantic Ocean,02MCA06,Raisin River
+12007301102,45.15011,-74.73579,,,,,,,,,,,23.04,02MC,Upper St. Lawrence - Raisin,Atlantic Ocean,02MCA06,Raisin River
+12007301502,45.09994,-74.67696,,,,,,,,,,,19.55,02MC,Upper St. Lawrence - Raisin,Atlantic Ocean,02MCA06,Raisin River
+12008000302,45.28217,-74.44979,,,,,,,,,,,24.04,02MC,Upper St. Lawrence - Raisin,Atlantic Ocean,02MCA08,Rivière Beaudette
+12008600102,45.31764,-74.60217,,,,,,,,,,,24.74,02MC,Upper St. Lawrence - Raisin,Atlantic Ocean,02MCA07,Rivière Delisle
+12008600202,45.32857,-74.61791,,,,,,,,,,,24.71,02MC,Upper St. Lawrence - Raisin,Atlantic Ocean,02MCA07,Rivière Delisle
+12008600402,45.30296,-74.63752,,,,,,,,,,,25.29,02MC,Upper St. Lawrence - Raisin,Atlantic Ocean,02MCA07,Rivière Delisle
+12008601102,45.31271,-74.63227,,,,,,,,,,,24.88,02MC,Upper St. Lawrence - Raisin,Atlantic Ocean,02MCA07,Rivière Delisle
+14002800302,46.42733,-81.09778,,,,,,,,,,,22.78,02CF,Vermilion (Ont.),Atlantic Ocean,02CF-02,McCharles Lake - Vermilion River
+14002801202,46.60479,-81.38127,,,,,,,,,,,21.08,02CF,Vermilion (Ont.),Atlantic Ocean,02CF-07,Onaping River
+14002803002,46.53756,-81.26590,,,,,,,,,,,22.10,02CF,Vermilion (Ont.),Atlantic Ocean,02CF-03,Cascade Falls - Vermilion River
+14002808902,46.47269,-80.99620,,,,,,,,,,,21.33,02CF,Vermilion (Ont.),Atlantic Ocean,02CF-02,McCharles Lake - Vermilion River
+14002809002,46.43383,-81.28167,,,,,,,,,,,23.02,02CF,Vermilion (Ont.),Atlantic Ocean,02CF-02,McCharles Lake - Vermilion River
+14002809102,46.52354,-81.19624,,,,,,,,,,,22.78,02CF,Vermilion (Ont.),Atlantic Ocean,02CF-03,Cascade Falls - Vermilion River
+16008700502,42.78718,-81.26733,83.1,NO,770.0,YES,8.17,NO,0.134,YES,4.480,YES,22.87,02GC,Big (Ont.),Atlantic Ocean,02GC-09,Kettle Creek
+16008700602,42.70748,-81.19759,33.2,NO,549.0,YES,9.31,NO,0.054,YES,1.215,NO,24.63,02GC,Big (Ont.),Atlantic Ocean,02GC-09,Kettle Creek
+16008701002,42.69273,-81.21758,84.3,NO,720.0,YES,9.15,NO,0.171,YES,5.340,YES,23.59,02GC,Big (Ont.),Atlantic Ocean,02GC-09,Kettle Creek
+16008701502,42.81367,-81.17261,40.7,NO,620.0,YES,8.31,NO,0.082,YES,2.045,NO,22.09,02GC,Big (Ont.),Atlantic Ocean,02GC-09,Kettle Creek
+16010900702,42.96593,-80.54253,27.8,NO,592.0,YES,9.47,NO,0.053,YES,4.330,YES,17.48,02GC,Big (Ont.),Atlantic Ocean,02GC-07,Rock's Mills Dam - Big Otter Creek
+16010900802,42.71095,-80.84016,34.1,NO,599.0,YES,9.82,NO,0.050,YES,3.960,YES,19.32,02GC,Big (Ont.),Atlantic Ocean,02GC-06,Little Otter Creek - Big Otter Creek
+16010901002,42.93289,-80.66202,43.4,NO,622.0,YES,10.23,NO,0.066,YES,4.790,YES,21.60,02GC,Big (Ont.),Atlantic Ocean,02GC-07,Rock's Mills Dam - Big Otter Creek
+16012401102,42.68583,-80.53843,26.3,NO,583.0,YES,9.81,NO,0.031,YES,3.540,YES,19.03,02GC,Big (Ont.),Atlantic Ocean,02GC-03,Big Creek Marsh - Big Creek
+16012401202,42.98726,-80.44486,25.4,NO,671.0,YES,9.14,NO,0.038,YES,3.215,YES,19.36,02GC,Big (Ont.),Atlantic Ocean,02GC-05,Big Creek Marsh - Big Creek
+16012401402,42.77904,-80.47588,22.9,NO,509.0,YES,10.47,NO,0.016,NO,3.055,YES,13.35,02GC,Big (Ont.),Atlantic Ocean,02GC-04,Teeterville Dam - Big Creek
+16015900302,42.82338,-80.28893,57.9,NO,723.0,YES,10.16,NO,0.039,YES,3.570,YES,17.29,02GC,Big (Ont.),Atlantic Ocean,02GC-02,Black Creek - Lynn River
+16015901002,42.83521,-80.36722,27.3,NO,548.0,YES,9.66,NO,0.013,NO,2.690,NO,16.08,02GC,Big (Ont.),Atlantic Ocean,02GC-02,Black Creek - Lynn River
+16016400102,42.80999,-80.07651,42.3,NO,555.5,YES,12.00,NO,0.094,YES,1.250,NO,24.60,02GC,Big (Ont.),Atlantic Ocean,02GC-01,Nanticoke Creek
+16018400902,43.19221,-80.38292,44.1,NO,,,10.93,NO,0.018,NO,3.020,YES,23.90,02GA,Upper Grand,Atlantic Ocean,02GA-05,Charlie Creek - Nith River Outlet
+16018401002,43.27898,-80.34339,107.0,NO,773.0,YES,13.38,NO,0.031,YES,3.630,YES,24.98,02GA,Upper Grand,Atlantic Ocean,02GA-01,Mill Creek - Grand River
+16018401202,43.38660,-80.38680,80.3,NO,681.0,YES,10.35,NO,0.046,YES,3.525,YES,22.14,02GA,Upper Grand,Atlantic Ocean,02GA-01,Mill Creek - Grand River
+16018401502,43.48180,-80.48175,30.8,NO,505.5,YES,12.06,NO,0.026,NO,2.195,NO,23.48,02GA,Upper Grand,Atlantic Ocean,02GA-02,Schneider Creek - Grand River
+16018401602,43.58475,-80.53462,82.3,NO,754.0,YES,11.36,NO,0.115,YES,3.810,YES,22.51,02GA,Upper Grand,Atlantic Ocean,02GA-03,Cox Creek - Grand River
+16018402702,43.10974,-80.24491,91.3,NO,789.0,YES,11.13,NO,0.024,NO,3.385,YES,23.58,02GB,Lower Grand,Atlantic Ocean,02GB-03,Caledonia Dam - Grand River
+16018402902,43.52485,-80.51440,27.9,NO,,,12.21,NO,0.036,YES,3.330,YES,23.82,02GA,Upper Grand,Atlantic Ocean,02GA-07,Conestogo River
+16018403202,43.37548,-80.67888,45.0,NO,,,8.97,NO,0.061,YES,2.970,NO,0.00,02GA,Upper Grand,Atlantic Ocean,02GA-06,Alder Creek - Nith River
+16018403302,43.27486,-80.47478,52.6,NO,,,12.05,NO,0.020,NO,3.325,YES,0.00,02GA,Upper Grand,Atlantic Ocean,02GA-05,Charlie Creek - Nith River Outlet
+16018403402,43.53362,-80.25302,49.4,NO,598.0,YES,10.29,NO,0.021,NO,0.843,NO,20.67,02GA,Upper Grand,Atlantic Ocean,02GA-09,Ellis Creek - Speed River
+16018403502,42.90027,-79.61985,87.8,NO,814.0,YES,10.15,NO,0.072,YES,3.150,YES,24.75,02GB,Lower Grand,Atlantic Ocean,02GB-01,Grand River Outlet
+16018403602,43.48425,-80.28215,139.0,YES,919.0,YES,8.47,NO,0.038,YES,4.850,YES,19.95,02GA,Upper Grand,Atlantic Ocean,02GA-09,Ellis Creek - Speed River
+16018403702,43.72484,-80.34399,16.2,NO,,,10.89,NO,0.034,YES,1.360,NO,20.50,02GA,Upper Grand,Atlantic Ocean,02GA-04,West Montrose - Grand River
+16018404102,43.42201,-80.41048,67.5,NO,596.0,YES,10.37,NO,0.024,NO,2.230,NO,0.00,02GA,Upper Grand,Atlantic Ocean,02GA-02,Schneider Creek - Grand River
+16018405102,43.61625,-80.56016,25.5,NO,,,9.74,NO,0.149,YES,2.690,NO,23.20,02GA,Upper Grand,Atlantic Ocean,02GA-03,Cox Creek - Grand River
+16018405202,43.63461,-80.58016,21.9,NO,,,9.44,NO,0.158,YES,3.695,YES,0.00,02GA,Upper Grand,Atlantic Ocean,02GA-03,Cox Creek - Grand River
+16018406702,43.86170,-80.27243,17.6,NO,,,11.65,NO,0.022,NO,0.554,NO,22.15,02GA,Upper Grand,Atlantic Ocean,02GA-08,Lake Belwood - Grand River
+16018407402,43.48414,-80.83529,30.6,NO,,,10.77,NO,0.040,YES,2.960,NO,22.68,02GA,Upper Grand,Atlantic Ocean,02GA-14,Smith Creek - Nith River
+16018407502,43.75687,-80.66993,27.7,NO,,,10.97,NO,0.045,YES,3.745,YES,22.63,02GA,Upper Grand,Atlantic Ocean,02GA-10,Conestogo Lake - Conestogo River
+16018407702,43.65483,-80.70207,19.8,NO,,,12.23,NO,0.074,YES,3.500,YES,20.38,02GA,Upper Grand,Atlantic Ocean,02GA-07,Conestogo River
+16018409002,43.96723,-80.35495,11.1,NO,,,10.94,NO,0.024,NO,1.340,NO,22.21,02GA,Upper Grand,Atlantic Ocean,02GA-13,Black Creek - Grand River
+16018409102,43.75763,-80.74877,24.5,NO,,,13.36,NO,0.037,YES,2.670,NO,24.08,02GA,Upper Grand,Atlantic Ocean,02GA-10,Conestogo Lake - Conestogo River
+16018409202,43.02193,-79.89200,92.5,NO,,,10.24,NO,0.042,YES,3.440,YES,23.33,02GB,Lower Grand,Atlantic Ocean,02GB-02,Holmes Creek - Grand River
+16018409302,43.14897,-80.17155,67.3,NO,728.0,YES,7.90,NO,0.119,YES,1.240,NO,20.65,02GB,Lower Grand,Atlantic Ocean,02GB-05,Fairchild Creek
+16018409902,43.63993,-80.27013,28.7,NO,,,10.75,NO,0.012,NO,1.320,NO,19.69,02GA,Upper Grand,Atlantic Ocean,02GA-11,Guelph Lake - Speed River
+16018410102,43.39967,-80.36561,137.0,YES,,,9.53,NO,0.029,NO,3.740,YES,21.63,02GA,Upper Grand,Atlantic Ocean,02GA-09,Ellis Creek - Speed River
+16018410202,43.54792,-80.18240,38.4,NO,,,9.62,NO,0.012,NO,0.987,NO,19.11,02GA,Upper Grand,Atlantic Ocean,02GA-16,Eramosa River
+16018410302,43.58811,-80.47062,26.1,NO,,,12.58,NO,0.020,NO,1.755,NO,22.92,02GA,Upper Grand,Atlantic Ocean,02GA-04,West Montrose - Grand River
+16018410402,43.69545,-80.44782,27.4,NO,,,11.17,NO,0.020,NO,2.320,NO,21.75,02GA,Upper Grand,Atlantic Ocean,02GA-18,Irvine Creek
+16018410602,43.12610,-80.38370,39.2,NO,,,11.02,NO,0.023,NO,3.835,YES,19.01,02GB,Lower Grand,Atlantic Ocean,02GB-04,Whitemans Creek
+16018410602,43.12610,-80.38370,39.2,NO,700.5,YES,11.02,NO,0.023,NO,3.835,YES,19.01,02GB,Lower Grand,Atlantic Ocean,02GB-04,Whitemans Creek
+16018411702,43.39381,-80.41612,222.0,YES,1320.0,YES,10.51,NO,0.021,NO,0.760,NO,20.30,02GA,Upper Grand,Atlantic Ocean,02GA-02,Schneider Creek - Grand River
+16018412602,43.58794,-80.27398,27.5,NO,,,10.63,NO,0.021,NO,0.821,NO,21.03,02GA,Upper Grand,Atlantic Ocean,02GA-11,Guelph Lake - Speed River
+16018412702,43.55904,-80.63497,38.2,NO,,,12.40,NO,0.063,YES,1.830,NO,23.84,02GA,Upper Grand,Atlantic Ocean,02GA-07,Conestogo River
+16018412802,43.09605,-80.03049,96.8,NO,,,9.20,NO,0.057,YES,2.315,NO,22.95,02GB,Lower Grand,Atlantic Ocean,02GB-08,Big Creek
+16018412902,43.02365,-79.91486,34.5,NO,,,9.29,NO,0.081,YES,0.652,NO,23.93,02GB,Lower Grand,Atlantic Ocean,02GB-06,McKenzie Creek
+16018413002,43.48238,-80.48335,266.5,YES,,,11.21,NO,0.036,YES,0.739,NO,22.76,02GA,Upper Grand,Atlantic Ocean,02GA-02,Schneider Creek - Grand River
+16018413102,43.41308,-80.22687,64.0,NO,,,9.69,NO,0.011,NO,0.800,NO,17.10,02GA,Upper Grand,Atlantic Ocean,02GA-01,Mill Creek - Grand River
+16018415502,43.35519,-80.66507,59.9,NO,,,11.46,NO,0.053,YES,1.760,NO,0.00,02GA,Upper Grand,Atlantic Ocean,02GA-06,Alder Creek - Nith River
+17000600102,44.08825,-76.88544,9.8,NO,291.0,NO,3.75,YES,0.078,YES,,,22.00,0209,,Atlantic Ocean,029C-01,Aldophus Reach - Bay of Quinte
+17000800102,44.00474,-77.12621,20.8,NO,437.0,NO,9.76,NO,0.013,NO,,,0.00,0209,,Atlantic Ocean,029C-01,Aldophus Reach - Bay of Quinte
+17000800202,44.00860,-77.13656,87.1,NO,727.0,YES,8.16,NO,0.044,YES,5.070,YES,0.00,0209,,Atlantic Ocean,029C-01,Aldophus Reach - Bay of Quinte
+17000900102,44.01696,-77.13611,71.1,NO,797.0,YES,6.83,NO,0.031,YES,,,0.00,0209,,Atlantic Ocean,029C-01,Aldophus Reach - Bay of Quinte
+17001400102,44.09081,-77.21061,5.9,NO,293.0,NO,8.71,NO,0.032,YES,,,0.00,0209,,Atlantic Ocean,029C-02,Telegraph Narrows - Bay of Quinte
+17001600102,44.10396,-77.39470,12.6,NO,395.0,NO,2.30,YES,0.103,YES,,,0.00,0209,,Atlantic Ocean,029C-02,Telegraph Narrows - Bay of Quinte
+17002100302,44.48157,-77.68517,6.3,NO,178.0,NO,8.73,NO,0.011,NO,,,23.56,02HK,Trent,Atlantic Ocean,02HK-03,Crowe Lake - Crowe River
+17002100702,44.38066,-77.97732,14.0,NO,429.0,NO,9.58,NO,0.015,NO,0.180,NO,23.09,02HJ,Otonabee,Atlantic Ocean,02HJ-04,Ouse River
+17002100802,44.20638,-78.27880,14.3,NO,232.0,NO,9.24,NO,0.019,NO,0.198,NO,23.93,02HJ,Otonabee,Atlantic Ocean,02HJ-02,Otonabee River Outlet
+17002101602,44.48733,-78.23462,11.0,NO,200.0,NO,9.23,NO,0.014,NO,0.174,NO,24.21,02HH,Kawartha Lakes,Atlantic Ocean,02HH-01,Stony Lake - Katchewanooka Lake
+17002101702,44.55705,-78.20502,11.1,NO,198.0,NO,9.04,NO,0.014,NO,,,24.65,02HH,Kawartha Lakes,Atlantic Ocean,02HH-01,Stony Lake - Katchewanooka Lake
+17002101802,44.55468,-78.34459,12.0,NO,213.0,NO,9.35,NO,0.014,NO,,,24.48,02HH,Kawartha Lakes,Atlantic Ocean,02HH-02,Burleigh Falls Dam - Lower Buckhorn Lake
+17002102102,44.53860,-78.54622,12.3,NO,200.0,NO,9.44,NO,0.014,NO,0.183,NO,24.58,02HH,Kawartha Lakes,Atlantic Ocean,02HH-04,Bobcaygeon River
+17002102302,44.53516,-78.73753,7.2,NO,137.5,NO,9.67,NO,0.009,NO,,,24.36,02HH,Kawartha Lakes,Atlantic Ocean,02HH-04,Bobcaygeon River
+17002102502,44.65847,-78.79674,6.1,NO,79.0,NO,9.77,NO,0.008,NO,0.118,NO,24.41,02HF,Gull,Atlantic Ocean,02HF-03,Coboconk Dam - Gull River
+17002103802,44.29952,-78.32067,41.9,NO,554.5,YES,9.75,NO,0.035,YES,0.361,NO,18.79,02HJ,Otonabee,Atlantic Ocean,02HJ-03,Lock 19 - Otanabee River
+17002104102,44.39552,-78.75350,40.2,NO,460.0,NO,9.43,NO,0.025,NO,0.461,NO,23.45,02HH,Kawartha Lakes,Atlantic Ocean,02HH-04,Bobcaygeon River
+17002104602,44.20104,-77.59570,15.4,NO,458.0,NO,10.31,NO,0.024,NO,0.573,NO,22.94,02HK,Trent,Atlantic Ocean,02HK-09,Cold Creek
+17002105202,44.56394,-78.34054,2.5,NO,60.0,NO,9.17,NO,0.007,NO,,,23.81,02HH,Kawartha Lakes,Atlantic Ocean,02HH-02,Burleigh Falls Dam - Lower Buckhorn Lake
+17002105402,44.57366,-78.78595,6.3,NO,122.0,NO,9.88,NO,0.009,NO,,,24.71,02HF,Gull,Atlantic Ocean,02HF-01,Cameron Lake Dam - Fenelon River
+17002105702,44.37636,-77.78641,15.0,NO,252.5,NO,8.89,NO,0.017,NO,0.213,NO,24.94,02HK,Trent,Atlantic Ocean,02HK-02,Crowe Bay Dam - Trent River
+17002106502,44.40075,-78.26287,11.5,NO,209.5,NO,9.28,NO,0.016,NO,0.141,NO,24.15,02HJ,Otonabee,Atlantic Ocean,02HJ-03,Lock 19 - Otanabee River
+17002106702,44.30809,-77.95612,14.8,NO,247.5,NO,9.65,NO,0.018,NO,0.141,NO,24.97,02HJ,Otonabee,Atlantic Ocean,02HK-02,Crowe Bay Dam - Trent River
+17002106802,44.10583,-77.57936,14.1,NO,265.5,NO,9.01,NO,0.020,NO,0.185,NO,24.68,02HK,Trent,Atlantic Ocean,02HK-01,Mayhew Creek - Trent River Outlet
+17002107002,44.28881,-78.30763,12.2,NO,210.0,NO,9.34,NO,0.017,NO,0.180,NO,23.98,02HJ,Otonabee,Atlantic Ocean,02HJ-03,Lock 19 - Otanabee River
+17002107102,44.19961,-77.81872,12.2,NO,479.5,NO,11.27,NO,0.031,YES,1.000,NO,21.21,02HK,Trent,Atlantic Ocean,02HK-01,Mayhew Creek - Trent River Outlet
+17002107402,44.34198,-78.54170,14.5,NO,386.0,NO,9.45,NO,0.018,NO,,,24.62,02HH,Kawartha Lakes,Atlantic Ocean,02HH-03,Pigeon Lake - Gannon Narrows
+17002107502,44.74054,-78.65937,7.0,NO,112.0,NO,9.98,NO,0.009,NO,,,23.16,02HF,Gull,Atlantic Ocean,02HF-02,Goose Lake - Burnt River
+17002107702,44.13534,-78.45733,6.7,NO,407.5,NO,11.00,NO,0.017,NO,0.789,NO,14.14,02HJ,Otonabee,Atlantic Ocean,02HJ-02,Otonabee River Outlet
+17002108602,44.77074,-77.88165,8.7,NO,167.0,NO,8.85,NO,0.019,NO,,,21.74,02HK,Trent,Atlantic Ocean,02HK-04,Cordova Lake Dam - Crowe River
+17002109202,44.52680,-77.89834,8.1,NO,160.0,NO,8.50,NO,0.013,NO,,,23.11,02HK,Trent,Atlantic Ocean,02HK-15,Kasshabog Lake - North River
+17002109502,44.53392,-77.69752,2.5,NO,194.0,NO,9.28,NO,0.019,NO,,,0.00,02HK,Trent,Atlantic Ocean,02HK-05,Dickey Creek - Beaver Creek
+17002111802,44.26366,-77.59664,13.3,NO,252.0,NO,9.16,NO,0.020,NO,0.255,NO,25.11,02HK,Trent,Atlantic Ocean,02HK-01,Mayhew Creek - Trent River Outlet
+17002111902,44.28545,-78.82009,27.9,NO,566.5,YES,7.47,NO,0.021,NO,2.100,NO,22.35,02HG,Scugog,Atlantic Ocean,02HG-02,Mariposa Brook
+17002112802,44.10990,-77.59454,47.7,NO,520.5,YES,8.90,NO,0.025,NO,0.280,NO,22.05,02HK,Trent,Atlantic Ocean,02HK-01,Mayhew Creek - Trent River Outlet
+17002113002,44.32767,-78.73028,29.0,NO,401.0,NO,9.42,NO,0.026,NO,0.610,NO,24.01,02HG,Scugog,Atlantic Ocean,02HG-01,Lake Scugog - Scugog River
+17002113302,44.13469,-77.78686,12.4,NO,434.5,NO,11.82,NO,0.020,NO,0.508,NO,21.31,02HK,Trent,Atlantic Ocean,02HK-09,Cold Creek
+17002113602,44.20023,-78.94943,42.5,NO,577.5,YES,6.69,NO,0.040,YES,0.409,NO,21.62,02HG,Scugog,Atlantic Ocean,02HG-04,Nonquon River
+17002113702,44.13188,-78.82888,37.8,NO,597.0,YES,9.85,NO,0.044,YES,1.450,NO,18.31,02HG,Scugog,Atlantic Ocean,02HG-01,Lake Scugog - Scugog River
+17002113802,44.77755,-78.29349,1.4,NO,29.0,NO,9.12,NO,0.016,NO,,,21.19,02HH,Kawartha Lakes,Atlantic Ocean,02HH-05,Mississagua River
+17002113902,44.72518,-78.24072,1.6,NO,35.0,NO,9.32,NO,0.005,NO,,,22.89,02HH,Kawartha Lakes,Atlantic Ocean,02HH-05,Mississagua River
+17002114002,44.22697,-78.39655,23.1,NO,495.5,NO,9.32,NO,0.022,NO,0.420,NO,20.65,02HJ,Otonabee,Atlantic Ocean,02HJ-06,Cavan Creek
+17002114102,44.31042,-78.16020,13.3,NO,265.0,NO,9.65,NO,0.016,NO,,,24.69,02HJ,Otonabee,Atlantic Ocean,02HJ-05,Indian River
+17002114202,44.31631,-78.05433,14.5,NO,403.0,NO,10.55,NO,0.021,NO,0.166,NO,25.56,02HJ,Otonabee,Atlantic Ocean,02HJ-04,Ouse River
+17002114302,44.32724,-78.04177,20.4,NO,479.0,NO,9.60,NO,0.021,NO,0.740,NO,22.37,02HJ,Otonabee,Atlantic Ocean,02HJ-04,Ouse River
+17002114402,44.25876,-78.33458,14.3,NO,223.5,NO,9.02,NO,0.021,NO,0.259,NO,23.64,02HJ,Otonabee,Atlantic Ocean,02HJ-02,Otonabee River Outlet
+17002114502,44.83937,-77.92419,8.0,NO,165.0,NO,8.58,NO,0.024,NO,,,21.39,02HK,Trent,Atlantic Ocean,02HK-06,Chandos Lake - Crowe River
+17002115602,44.30643,-77.80670,18.3,NO,522.0,YES,10.66,NO,0.073,YES,0.396,NO,22.09,02HK,Trent,Atlantic Ocean,02HK-01,Mayhew Creek - Trent River Outlet
+17002115702,44.22442,-77.83930,12.3,NO,442.0,NO,11.50,NO,0.020,NO,0.332,NO,22.51,02HK,Trent,Atlantic Ocean,02HK-10,Percy Creek
+17002600102,44.16535,-77.38647,10.3,NO,270.5,NO,9.40,NO,0.015,NO,,,0.00,02HL,Moira,Atlantic Ocean,02HL-01,Palliser Creek - Moira River Outlet
+17002600202,44.20605,-77.39321,9.0,NO,258.0,NO,9.03,NO,0.014,NO,,,0.00,02HL,Moira,Atlantic Ocean,02HL-01,Palliser Creek - Moira River Outlet
+17002600302,44.45845,-77.29847,6.7,NO,190.5,NO,9.12,NO,0.018,NO,,,0.00,02HL,Moira,Atlantic Ocean,02HL-02,Latta Falls - Moira River
+17002600402,44.45752,-77.27672,6.3,NO,192.0,NO,9.04,NO,0.017,NO,,,0.00,02HL,Moira,Atlantic Ocean,02HL-02,Latta Falls - Moira River
+17002600602,44.47890,-77.30962,5.5,NO,164.0,NO,9.31,NO,0.015,NO,,,0.00,02HL,Moira,Atlantic Ocean,02HL-02,Latta Falls - Moira River
+17002600702,44.48091,-77.27069,5.7,NO,290.0,NO,7.23,NO,0.020,NO,,,0.00,02HL,Moira,Atlantic Ocean,02HL-07,Clare River
+17002600902,44.54924,-77.32831,3.4,NO,68.0,NO,8.62,NO,0.015,NO,,,0.00,02HL,Moira,Atlantic Ocean,02HL-03,Skootamatta River
+17002601002,44.53958,-77.36943,2.0,NO,95.0,NO,8.63,NO,0.014,NO,,,0.00,02HL,Moira,Atlantic Ocean,02HL-05,Black River
+17002601101,44.47836,-77.46816,9.2,NO,292.0,NO,9.12,NO,0.018,NO,,,0.00,02HL,Moira,Atlantic Ocean,02HL-04,Moira Lake at Downey's Weir - Moira River
+17002601202,44.49954,-77.47331,19.3,NO,455.0,NO,10.42,NO,0.019,NO,0.161,NO,0.00,02HL,Moira,Atlantic Ocean,02HL-04,Moira Lake at Downey's Weir - Moira River
+17002601302,44.49961,-77.61789,8.8,NO,265.0,NO,10.04,NO,0.019,NO,0.150,NO,0.00,02HL,Moira,Atlantic Ocean,02HL-04,Moira Lake at Downey's Weir - Moira River
+17002601902,44.56277,-77.60304,8.3,NO,259.0,NO,9.36,NO,0.017,NO,0.179,NO,0.00,02HL,Moira,Atlantic Ocean,02HL-08,Deloro Ruins - Moira RIver
+17002602302,44.50971,-77.39072,8.9,NO,267.5,NO,8.98,NO,0.016,NO,,,0.00,02HL,Moira,Atlantic Ocean,02HL-04,Moira Lake at Downey's Weir - Moira River
+17003100102,44.19624,-77.22940,7.6,NO,262.5,NO,8.86,NO,0.016,NO,,,0.00,02HM,Napanee,Atlantic Ocean,02HM-02,Fisher Creek - Salmon River Outlet
+17003500202,44.27770,-76.92818,10.2,NO,250.5,NO,8.45,NO,0.024,NO,,,0.00,02HM,Napanee,Atlantic Ocean,02HM-01,Napanee River Outlet
+17003500402,44.32345,-76.87528,8.2,NO,224.5,NO,9.12,NO,0.022,NO,,,0.00,02HM,Napanee,Atlantic Ocean,02HM-01,Napanee River Outlet
+17003700302,44.23925,-76.84914,43.6,NO,579.0,YES,8.83,NO,0.023,NO,0.270,NO,0.00,02HM,Napanee,Atlantic Ocean,02HM-08,Wilton Creek - Little Creek
+18000017002,45.47495,-76.23814,,,,,,,,,,,24.21,02KF,Central Ottawa - Mississippi,Atlantic Ocean,02KF-01,Chaudière Falls - Ottawa River
+18000036002,46.37871,-78.72896,,,,,,,,,,,19.22,02JE,Upper Ottawa - Kipawa,Atlantic Ocean,02JE-01,Mattawa River - Ottawa River
+18003300302,45.02736,-75.64159,,,,,,,,,,,24.01,02LA,Rideau,Atlantic Ocean,02LA-08,Kemptville Creek
+18003300802,44.89281,-76.19725,,,,,,,,,,,24.84,02LA,Rideau,Atlantic Ocean,02LA-06,Tay River
+18003302302,44.75978,-76.51957,,,,,,,,,,,25.08,02LA,Rideau,Atlantic Ocean,02LA-06,Tay River
+18003302602,44.88737,-75.92730,,,,,,,,,,,25.04,02LA,Rideau,Atlantic Ocean,02LA-03,Burritts Rapids Dam - Rideau River
+18003302902,45.16190,-75.63390,,,,,,,,,,,24.81,02LA,Rideau,Atlantic Ocean,02LA-02,Stevens Creek - Rideau River
+18003303102,45.37070,-75.69654,,,,,,,,,,,24.07,02LA,Rideau,Atlantic Ocean,02LA-01,Rideau Falls - Rideau River
+18003303402,45.43743,-75.67854,,,,,,,,,,,23.44,02LA,Rideau,Atlantic Ocean,02LA-01,Rideau Falls - Rideau River
+18003303502,44.95114,-75.81948,,,,,,,,,,,24.62,02LA,Rideau,Atlantic Ocean,02LA-03,Burritts Rapids Dam - Rideau River
+18003303602,45.24921,-75.79081,,,,,,,,,,,22.34,02LA,Rideau,Atlantic Ocean,02LA-07,Jock River
+18003303702,45.24858,-75.70466,,,,,,,,,,,25.09,02LA,Rideau,Atlantic Ocean,02LA-01,Rideau Falls - Rideau River
+18207000702,45.37543,-74.94767,,,,,,,,,,,22.05,02LB,Lower Ottawa - South Nation,Atlantic Ocean,02LB-12,Scotch River
+18207000802,45.44486,-75.06109,,,,,,,,,,,21.58,02LB,Lower Ottawa - South Nation,Atlantic Ocean,02LB-05,Horse Creek - South Nation River
+18207002002,45.55920,-75.06332,,,,,,,,,,,24.93,02LB,Lower Ottawa - South Nation,Atlantic Ocean,02LB-05,Horse Creek - South Nation River
+18207006002,45.37400,-74.90711,,,,,,,,,,,21.74,02LB,Lower Ottawa - South Nation,Atlantic Ocean,02LB-12,Scotch River
+18207010002,45.31853,-75.09253,,,,,,,,,,,24.68,02LB,Lower Ottawa - South Nation,Atlantic Ocean,02LB-06,Casselman Weir - South Nation River
+18207014502,45.26243,-75.34362,,,,,,,,,,,22.71,02LB,Lower Ottawa - South Nation,Atlantic Ocean,02LB-08,Castor River
+18207015002,44.77975,-75.58636,,,,,,,,,,,21.43,02LB,Lower Ottawa - South Nation,Atlantic Ocean,02LB-10,Chesterville Dam - South Nation River
+18207016002,45.10188,-75.22883,,,,,,,,,,,24.40,02LB,Lower Ottawa - South Nation,Atlantic Ocean,02LB-07,Chesterville Dam - South Nation River
+18337012102,45.41751,-76.19845,,,,,,,,,,,23.17,02KF,Central Ottawa - Mississippi,Atlantic Ocean,02KF-02,Carp River
+18343000102,44.96844,-76.96598,,,,,,,,,,,20.07,02KF,Central Ottawa - Mississippi,Atlantic Ocean,02KF-10,Buckshot Creek
+18343000202,45.24536,-76.26013,,,,,,,,,,,21.94,02KF,Central Ottawa - Mississippi,Atlantic Ocean,02KF-11,Indian River
+18343000302,44.77489,-76.64033,,,,,,,,,,,23.91,02KF,Central Ottawa - Mississippi,Atlantic Ocean,02KF-07,Fall River
+18343003002,45.42325,-76.25247,,,,,,,,,,,24.25,02KF,Central Ottawa - Mississippi,Atlantic Ocean,02KF-03,Cartwrights Creek - Mississippi River
+18343003402,45.33562,-76.28699,,,,,,,,,,,23.74,02KF,Central Ottawa - Mississippi,Atlantic Ocean,02KF-03,Cartwrights Creek - Mississippi River
+18343006102,45.18142,-76.12534,,,,,,,,,,,24.74,02KF,Central Ottawa - Mississippi,Atlantic Ocean,02KF-03,Cartwrights Creek - Mississippi River
+18343017502,44.97243,-76.53898,,,,,,,,,,,24.84,02KF,Central Ottawa - Mississippi,Atlantic Ocean,02KF-05,Long Sault Creek - Mississippi River
+18343023002,44.85020,-77.16923,,,,,,,,,,,23.67,02KF,Central Ottawa - Mississippi,Atlantic Ocean,02KF-08,Crotch Lake - Mississippi River
+18343052002,45.01245,-76.36412,,,,,,,,,,,23.35,02KF,Central Ottawa - Mississippi,Atlantic Ocean,02KF-06,Clyde River
+18343061002,44.94763,-76.41068,,,,,,,,,,,23.88,02KF,Central Ottawa - Mississippi,Atlantic Ocean,02KF-07,Fall River
+18349002002,45.43452,-76.34969,,,,,,,,,,,22.66,02KE,Lower Madawaska,Atlantic Ocean,02KE-01,Lake Madawaska - Madawaska River
+18369001002,45.51443,-76.55670,,,,,,,,,,,23.63,02KC,Central Ottawa - Bonnechere,Atlantic Ocean,02KC-04,McCrearys Point - Bonnechere River
+18607002002,46.31860,-78.70701,,,,,,,,,,,23.77,02JE,Upper Ottawa - Kipawa,Atlantic Ocean,02JE-05,Chant Plain Lake - Mattawa River
+18607006002,46.26983,-79.14253,,,,,,,,,,,22.96,02JE,Upper Ottawa - Kipawa,Atlantic Ocean,02JE-11,Talon Lake Dam - Mattawa River
+18607008002,46.28671,-78.90429,,,,,,,,,,,24.56,02JE,Upper Ottawa - Kipawa,Atlantic Ocean,02JE-08,Smith Lake - Amable du Fond River
+19006400102,48.49387,-81.36040,,,,,,,,,,,20.41,04LA,Upper Mattagami,Hudson Bay,04LA-01,Sandy Falls - Mattagami River
+19006400402,48.54984,-81.05481,,,,,,,,,,,20.07,04MD,Frederick House,Hudson Bay,04MD-08,Porcupine River
+19006401420,48.47479,-81.35320,,,,,,,,,,,20.41,04LA,Upper Mattagami,Hudson Bay,04LA-01,Sandy Falls - Mattagami River
+19006404502,48.48243,-81.22227,,,,,,,,,,,18.93,04MD,Frederick House,Hudson Bay,04MD-08,Porcupine River
+3001600302,44.52218,-80.93089,,,,,,,,,,,19.15,02FB,Southwest Georgian Bay,Atlantic Ocean,02FB-04,Sydenham River
+3003000202,44.56988,-80.64850,,,,,,,,,,,21.34,02FB,Southwest Georgian Bay,Atlantic Ocean,02FB-02,Bighead River
+3003600502,44.27959,-80.54586,,,,,,,,,,,18.19,02FB,Southwest Georgian Bay,Atlantic Ocean,02FB-03,Eugenia Lake - Beaver River
+3003600902,44.34604,-80.54015,,,,,,,,,,,20.40,02FB,Southwest Georgian Bay,Atlantic Ocean,02FB-03,Eugenia Lake - Beaver River
+3003601002,44.52028,-80.46674,,,,,,,,,,,21.68,02FB,Southwest Georgian Bay,Atlantic Ocean,02FB-01,Beaver River Outlet
+3005700702,44.16306,-79.82949,,,,,,,,,,,22.32,02ED,Nottawasaga,Atlantic Ocean,02ED-11,Boyne River
+3005701002,44.31855,-79.88647,,,,,,,,,,,19.66,02ED,Nottawasaga,Atlantic Ocean,02ED-06,Pine River
+3005702102,44.30520,-80.00168,,,,,,,,,,,19.40,02ED,Nottawasaga,Atlantic Ocean,02ED-09,Mad River
+3005702502,44.47548,-80.00713,,,,,,,,,,,22.05,02ED,Nottawasaga,Atlantic Ocean,02ED-01,Nottawasaga River Outlet
+3005702802,44.02453,-79.96972,,,,,,,,,,,17.75,02ED,Nottawasaga,Atlantic Ocean,02ED-07,Nicholston Dam - Nottawasaga River
+3005702902,44.24946,-79.82160,,,,,,,,,,,22.44,02ED,Nottawasaga,Atlantic Ocean,02ED-05,Bear Creek - Nottawasaga River
+3005703002,44.42214,-79.82357,,,,,,,,,,,17.61,02ED,Nottawasaga,Atlantic Ocean,02ED-10,Willow Creek
+3005703102,44.13109,-79.79640,,,,,,,,,,,21.51,02ED,Nottawasaga,Atlantic Ocean,02ED-08,Innisfil Creek
+3005703202,44.12334,-79.75892,,,,,,,,,,,22.54,02ED,Nottawasaga,Atlantic Ocean,02ED-08,Innisfil Creek
+3005703302,44.46734,-80.04784,,,,,,,,,,,16.32,02ED,Nottawasaga,Atlantic Ocean,02ED-01,Nottawasaga River Outlet
+3005703402,44.36138,-79.94164,,,,,,,,,,,21.73,02ED,Nottawasaga,Atlantic Ocean,02ED-09,Mad River
+3005703502,44.33010,-79.85476,,,,,,,,,,,17.94,02ED,Nottawasaga,Atlantic Ocean,02ED-05,Bear Creek - Nottawasaga River
+3005703602,44.41882,-79.82062,,,,,,,,,,,18.78,02ED,Nottawasaga,Atlantic Ocean,02ED-10,Willow Creek
+3005703702,44.45714,-79.85497,,,,,,,,,,,17.10,02ED,Nottawasaga,Atlantic Ocean,02ED-04,Marl Creek - Nottawasaga River
+3007700202,44.11324,-79.54584,,,,,,,,,,,23.24,02EC,Severn - Lake Simcoe,Atlantic Ocean,02EC-06,Holland River
+3007700702,44.02220,-79.47286,,,,,,,,,,,18.28,02EC,Severn - Lake Simcoe,Atlantic Ocean,02EC-14,Holland River East Branch
+3007702102,44.16663,-79.32748,,,,,,,,,,,21.66,02EC,Severn - Lake Simcoe,Atlantic Ocean,02EC-10,Black River
+3007702802,44.37225,-79.65130,,,,,,,,,,,19.84,02EC,Severn - Lake Simcoe,Atlantic Ocean,02EC-03,Lake Simcoe
+3007702902,44.01386,-79.67910,,,,,,,,,,,19.54,02EC,Severn - Lake Simcoe,Atlantic Ocean,02EC-06,Holland River
+3007703502,44.13776,-79.11260,,,,,,,,,,,18.98,02EC,Severn - Lake Simcoe,Atlantic Ocean,02EC-07,Pefferlaw River
+3007703602,44.49636,-79.46685,,,,,,,,,,,19.18,02EC,Severn - Lake Simcoe,Atlantic Ocean,02EC-03,Lake Simcoe
+3007703802,44.30474,-79.36043,,,,,,,,,,,23.66,02EC,Severn - Lake Simcoe,Atlantic Ocean,02EC-10,Black River
+3007703902,44.09483,-79.48995,,,,,,,,,,,21.38,02EC,Severn - Lake Simcoe,Atlantic Ocean,02EC-14,Holland River East Branch
+3007704002,44.31673,-79.20138,,,,,,,,,,,23.09,02EC,Severn - Lake Simcoe,Atlantic Ocean,02EC-07,Pefferlaw River
+3007704102,44.43030,-79.15510,,,,,,,,,,,23.85,02EC,Severn - Lake Simcoe,Atlantic Ocean,02EC-11,Beaver River
+3013301302,46.32852,-79.50328,,,,,,,,,,,20.37,02DD,French (Ont.),Atlantic Ocean,02DD-05,Lake Nipissing
+3013301902,46.30044,-79.46142,,,,,,,,,,,17.75,02DD,French (Ont.),Atlantic Ocean,02DD-05,Lake Nipissing
+3013303002,46.19660,-79.36637,,,,,,,,,,,21.96,02DD,French (Ont.),Atlantic Ocean,02DD-14,Wasi River
+3013400102,46.39508,-80.80043,,,,,,,,,,,22.90,02DB,Lower Wanapitei,Atlantic Ocean,02DB-02,McVittie Dam - Wanapitei River
+3013400302,46.52990,-80.74368,,,,,,,,,,,19.20,02DB,Lower Wanapitei,Atlantic Ocean,02DB-03,Corniston Dam - Wanapitei River
+3013401802,46.90333,-80.83871,,,,,,,,,,,20.97,02DA,Upper Wanapitei,Atlantic Ocean,02DA-02,Warford's Bay - Wanapitei River
+4001000302,42.24356,-82.61438,66.6,NO,690.5,YES,8.53,NO,0.161,YES,,,22.93,02GG,Sydenham,Atlantic Ocean,02GGB11,Ruscom River
+4001301402,43.04172,-81.18229,50.8,NO,550.0,YES,7.89,NO,0.093,YES,,,0.00,02GD,Upper Thames,Atlantic Ocean,02GD-02,Fanshawe Lake - North Thames River
+4001301602,43.12634,-80.77928,105.0,NO,844.5,YES,8.99,NO,0.127,YES,,,22.14,02GD,Upper Thames,Atlantic Ocean,02GD-06,Foldens Creek - Thames River
+4001301702,43.12742,-80.77084,97.4,NO,837.5,YES,8.92,NO,0.060,YES,,,21.72,02GD,Upper Thames,Atlantic Ocean,02GD-06,Foldens Creek - Thames River
+4001302502,43.36606,-81.01867,145.0,YES,1055.0,YES,9.19,NO,0.095,YES,,,20.61,02GD,Upper Thames,Atlantic Ocean,02GD-11,Avon River
+4001302902,42.91415,-81.31366,148.0,YES,852.0,YES,7.67,NO,0.067,YES,,,21.00,02GE,Lower Thames,Atlantic Ocean,02GE-09,Dingman Creek
+4001303302,42.19264,-82.51681,83.9,NO,782.0,YES,8.21,NO,0.122,YES,,,0.00,02GE,Lower Thames,Atlantic Ocean,02GE-08,Baptiste Creek
+4001304102,43.03142,-80.99849,34.4,NO,638.0,YES,12.52,NO,0.025,NO,,,22.19,02GD,Upper Thames,Atlantic Ocean,02GD-08,Middle Thames River
+4001304202,43.01864,-80.92691,108.5,NO,878.0,YES,10.78,NO,0.097,YES,,,0.00,02GD,Upper Thames,Atlantic Ocean,02GD-05,Reynolds - Thames River
+4001304402,43.45059,-81.20725,53.8,NO,646.5,YES,9.11,NO,0.078,YES,,,22.11,02GD,Upper Thames,Atlantic Ocean,02GD-07,Whirl Creek - North Thames River
+4001304702,42.93475,-81.42151,85.0,NO,721.5,YES,9.81,NO,0.108,YES,,,23.22,02GE,Lower Thames,Atlantic Ocean,02GE-07,Oxbow Creek - Thames River
+4001305002,43.09624,-81.16854,52.4,NO,566.0,YES,8.42,NO,0.027,NO,,,0.00,02GD,Upper Thames,Atlantic Ocean,02GD-02,Fanshawe Lake - North Thames River
+4001305702,42.54025,-81.96322,43.8,NO,745.0,YES,8.98,NO,0.024,NO,,,0.00,02GE,Lower Thames,Atlantic Ocean,02GE-03,Cornwall Creek - Thames River
+4001305802,42.51392,-82.07167,78.5,NO,707.0,YES,9.65,NO,0.101,YES,,,24.65,02GE,Lower Thames,Atlantic Ocean,02GE-03,Cornwall Creek - Thames River
+4001306302,42.93796,-81.44091,32.0,NO,622.5,YES,8.73,NO,0.019,NO,,,16.50,02GE,Lower Thames,Atlantic Ocean,02GE-07,Oxbow Creek - Thames River
+4001306402,43.26644,-81.08411,19.4,NO,434.0,NO,9.28,NO,0.072,YES,,,21.53,02GD,Upper Thames,Atlantic Ocean,02GD-10,Trout Creek
+4001306602,43.25236,-80.98516,22.3,NO,625.5,YES,10.56,NO,0.062,YES,,,0.00,02GD,Upper Thames,Atlantic Ocean,02GD-10,Trout Creek
+4001306802,42.97334,-80.95213,32.0,NO,627.0,YES,8.27,NO,0.258,YES,,,0.00,02GD,Upper Thames,Atlantic Ocean,02GD-05,Reynolds - Thames River
+4001307302,42.71794,-81.66988,68.9,NO,742.0,YES,10.13,NO,0.100,YES,,,0.00,02GE,Lower Thames,Atlantic Ocean,02GE-05,Newbiggen Creek - Thames River
+4001308002,43.21543,-80.69162,69.5,NO,743.5,YES,11.97,NO,0.052,YES,,,0.00,02GD,Upper Thames,Atlantic Ocean,02GD-09,Pittock Reservoir - Thames River
+4001308102,42.38328,-82.09484,87.5,NO,814.0,YES,9.58,NO,0.101,YES,,,24.22,02GE,Lower Thames,Atlantic Ocean,02GE-02,McGregor Creek -Thames River
+4001308202,42.35544,-82.32008,84.0,NO,,,9.14,NO,0.073,YES,,,24.19,02GE,Lower Thames,Atlantic Ocean,02GE-01,Jeannettes Creek - Thames River Outlet
+4001308202,42.35544,-82.32008,84.0,NO,720.0,YES,9.14,NO,0.073,YES,,,24.19,02GE,Lower Thames,Atlantic Ocean,02GE-01,Jeannettes Creek - Thames River Outlet
+4001308302,42.73154,-81.57772,84.4,NO,743.0,YES,9.56,NO,0.120,YES,,,0.00,02GE,Lower Thames,Atlantic Ocean,02GE-05,Newbiggen Creek - Thames River
+4001308602,42.96306,-81.40697,37.8,NO,616.0,YES,9.94,NO,0.033,YES,,,0.00,02GE,Lower Thames,Atlantic Ocean,02GE-07,Oxbow Creek - Thames River
+4001308902,43.28490,-81.17251,26.2,NO,485.0,NO,8.60,NO,0.032,YES,,,0.00,02GD,Upper Thames,Atlantic Ocean,02GD-04,Otter Creek - North Thames River
+4001309002,43.22063,-81.23681,22.4,NO,513.5,YES,8.06,NO,0.042,YES,,,0.00,02GD,Upper Thames,Atlantic Ocean,02GD-12,Fish Creek
+4001309202,43.37517,-81.18445,34.3,NO,522.5,YES,9.17,NO,0.030,YES,,,0.00,02GD,Upper Thames,Atlantic Ocean,02GD-13,Black Creek
+4001309402,43.27881,-81.16672,28.3,NO,493.0,NO,9.97,NO,0.025,NO,,,0.00,02GD,Upper Thames,Atlantic Ocean,02GD-04,Otter Creek - North Thames River
+4001309502,43.16653,-81.18986,34.7,NO,516.0,YES,9.87,NO,0.044,YES,,,0.00,02GD,Upper Thames,Atlantic Ocean,02GD-02,Fanshawe Lake - North Thames River
+4001309602,43.02232,-81.25201,96.8,NO,768.5,YES,8.52,NO,0.039,YES,,,0.00,02GD,Upper Thames,Atlantic Ocean,02GD-01,Medway Creek - North Thames River
+4001309702,42.99450,-81.11663,25.8,NO,555.5,YES,10.57,NO,0.017,NO,,,0.00,02GD,Upper Thames,Atlantic Ocean,02GD-03,Waubuno Creek - Thames River
+4001309802,43.06950,-81.15827,47.5,NO,614.0,YES,8.78,NO,0.057,YES,,,0.00,02GD,Upper Thames,Atlantic Ocean,02GD-02,Fanshawe Lake - North Thames River
+4001310902,42.63064,-81.77004,51.0,NO,724.5,YES,9.51,NO,0.036,YES,,,0.00,02GE,Lower Thames,Atlantic Ocean,02GE-04,Fleming Creek - Thames River
+4001311002,42.32508,-82.33001,47.1,NO,597.0,YES,7.93,NO,0.125,YES,,,0.00,02GE,Lower Thames,Atlantic Ocean,02GE-01,Jeannettes Creek - Thames River Outlet
+4002700402,42.86420,-82.16923,46.4,NO,651.5,YES,9.34,NO,0.159,YES,,,23.00,02GG,Sydenham,Atlantic Ocean,02GGB06,Nichol Creek - Bear Creek
+4002700702,42.93127,-81.66791,46.9,NO,679.0,YES,8.59,NO,0.078,YES,,,20.12,02GG,Sydenham,Atlantic Ocean,02GGB09,Gold Creek - Sydenham River
+4002700802,42.76408,-82.34158,39.3,NO,623.0,YES,8.50,NO,0.191,YES,,,23.90,02GG,Sydenham,Atlantic Ocean,02GGB06,Nichol Creek - Bear Creek
+4002700902,42.78695,-82.17194,44.6,NO,607.0,YES,8.18,NO,0.134,YES,,,23.13,02GG,Sydenham,Atlantic Ocean,02GGB07,Black Creek
+4002701202,42.83088,-81.85141,40.5,NO,654.0,YES,9.13,NO,0.063,YES,,,22.98,02GG,Sydenham,Atlantic Ocean,02GGB05,Hardy Creek - Sydenham River
+4002701502,42.97589,-81.59343,35.7,NO,642.0,YES,9.00,NO,0.044,YES,,,19.68,02GG,Sydenham,Atlantic Ocean,02GGB09,Gold Creek - Sydenham River
+4002701602,42.65068,-82.00877,38.5,NO,615.0,YES,9.34,NO,0.066,YES,,,23.94,02GG,Sydenham,Atlantic Ocean,02GGB02,Long Creek - Sydenham River
+4002701702,42.59179,-82.38763,24.6,NO,425.0,NO,10.09,NO,0.060,YES,,,24.80,02GG,Sydenham,Atlantic Ocean,02GGB02,Long Creek - Sydenham River
+5000600202,42.96335,-79.02196,44.7,NO,504.5,YES,7.11,NO,0.151,YES,,,0.00,02HA,Niagara,Atlantic Ocean,02HA-01,Niagara River
+6001700102,43.20139,-79.26580,18.5,NO,300.0,NO,10.27,NO,0.023,NO,,,0.00,02HA,Niagara,Atlantic Ocean,02HA-03,Welland Canal
+6001700702,43.11500,-79.27483,36.4,NO,672.0,YES,9.71,NO,0.045,YES,,,0.00,02HA,Niagara,Atlantic Ocean,02HA-03,Welland Canal
+6001701002,43.08751,-79.29200,28.6,NO,643.5,YES,10.46,NO,0.031,YES,,,0.00,02HA,Niagara,Atlantic Ocean,02HA-03,Welland Canal
+6001701102,43.08731,-79.29167,47.6,NO,740.0,YES,10.40,NO,0.043,YES,,,0.00,02HA,Niagara,Atlantic Ocean,02HA-03,Welland Canal
+6002400102,43.15202,-79.37449,68.1,NO,784.0,YES,9.92,NO,0.119,YES,,,0.00,02HA,Niagara,Atlantic Ocean,029A-01,Jordan Harbour - Twenty Mile Creek
+6002400802,43.13348,-79.38364,44.7,NO,566.0,YES,10.89,NO,0.250,YES,,,0.00,02HA,Niagara,Atlantic Ocean,029A-01,Jordan Harbour - Twenty Mile Creek
+6002400902,43.11561,-79.56651,79.0,NO,805.5,YES,10.68,NO,0.167,YES,,,0.00,02HA,Niagara,Atlantic Ocean,029A-01,Jordan Harbour - Twenty Mile Creek
+6006000402,43.46886,-80.07300,38.3,NO,622.5,YES,9.17,NO,0.034,YES,,,19.41,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-02,Bronte Creek
+6006000702,43.39559,-79.72280,73.7,NO,710.5,YES,10.32,NO,0.016,NO,,,20.93,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-02,Bronte Creek
+6006000802,43.43466,-79.84738,87.9,NO,738.0,YES,9.37,NO,0.039,YES,,,20.00,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-02,Bronte Creek
+6006300102,43.44294,-79.67125,164.0,YES,920.0,YES,10.86,NO,0.017,NO,,,21.45,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-03,Sixteen Mile Creek
+6006301002,43.50115,-79.95220,129.0,YES,924.0,YES,10.47,NO,0.009,NO,,,21.75,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-03,Sixteen Mile Creek
+6006301102,43.49908,-79.77659,104.5,NO,772.0,YES,10.01,NO,0.030,YES,,,20.69,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-03,Sixteen Mile Creek
+6006301202,43.47418,-79.79842,169.0,YES,1004.5,YES,10.35,NO,0.016,NO,,,19.78,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-03,Sixteen Mile Creek
+6006301402,43.55475,-79.85686,43.3,NO,593.5,YES,10.50,NO,0.026,NO,,,19.99,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-03,Sixteen Mile Creek
+6007600302,43.64721,-79.85628,96.4,NO,765.5,YES,10.66,NO,0.022,NO,,,21.14,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-04,Mary Fix Creek - Credit River
+6007600402,43.64636,-79.86622,191.0,YES,1160.0,YES,10.85,NO,0.043,YES,,,20.39,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-05,Credit River West Branch - Credit River
+6007600502,43.62759,-80.02209,115.5,NO,876.5,YES,7.73,NO,0.023,NO,,,19.09,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-05,Credit River West Branch - Credit River
+6007600602,43.90965,-80.06325,222.0,YES,1190.0,YES,6.97,NO,0.062,YES,,,18.95,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-06,Little Credit River - Credit River
+6007600802,43.62923,-80.01040,170.0,YES,1145.0,YES,8.89,NO,0.029,NO,,,17.00,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-05,Credit River West Branch - Credit River
+6007601002,43.72381,-79.93100,75.1,NO,687.5,YES,10.50,NO,0.016,NO,,,18.81,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-05,Credit River West Branch - Credit River
+6007601502,43.78374,-80.03480,48.7,NO,620.5,YES,9.93,NO,0.011,NO,,,16.32,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-06,Little Credit River - Credit River
+6007601602,43.65859,-79.74146,195.0,YES,1065.0,YES,8.11,NO,0.053,YES,,,21.12,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-04,Mary Fix Creek - Credit River
+6007601702,43.62215,-79.73327,94.7,NO,760.0,YES,11.42,NO,0.016,NO,,,22.29,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-04,Mary Fix Creek - Credit River
+6007601802,43.85621,-80.04821,118.5,NO,826.5,YES,9.30,NO,0.034,YES,,,17.95,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-06,Little Credit River - Credit River
+6007602202,43.63747,-79.88617,98.8,NO,840.5,YES,10.97,NO,0.014,NO,,,18.91,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-05,Credit River West Branch - Credit River
+6007602302,43.88846,-80.06331,217.0,YES,1205.0,YES,8.56,NO,0.066,YES,,,18.48,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-06,Little Credit River - Credit River
+6007605002,43.54920,-79.63327,133.0,YES,857.0,YES,9.75,NO,0.021,NO,,,21.47,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-04,Mary Fix Creek - Credit River
+6007605102,43.85976,-80.05739,35.0,NO,538.0,YES,9.74,NO,0.016,NO,,,18.39,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-06,Little Credit River - Credit River
+6007605202,43.80982,-79.92765,46.0,NO,590.0,YES,7.59,NO,0.043,YES,,,18.73,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-06,Little Credit River - Credit River
+6008000602,43.60506,-79.55975,406.0,YES,1745.0,YES,11.53,NO,0.069,YES,,,21.71,02HC,Humber - Don,Atlantic Ocean,02HC-01,Etobicoke Creek
+6008000702,43.67833,-79.67951,230.5,YES,1245.0,YES,12.40,NO,0.036,YES,,,24.18,02HC,Humber - Don,Atlantic Ocean,02HC-01,Etobicoke Creek
+6008300902,43.88810,-79.71796,23.7,NO,556.0,YES,11.05,NO,0.030,YES,,,14.65,02HC,Humber - Don,Atlantic Ocean,02HC-02,Black Creek - Humber River Outlet
+6008301802,43.92614,-79.80321,57.3,NO,612.5,YES,10.58,NO,0.024,NO,,,18.95,02HC,Humber - Don,Atlantic Ocean,02HC-04,Bolton Dam - Humber River
+6008301902,43.65144,-79.49133,163.0,YES,970.5,YES,12.03,NO,0.037,YES,,,22.80,02HC,Humber - Don,Atlantic Ocean,02HC-02,Black Creek - Humber River Outlet
+6008310302,43.75824,-79.67844,173.0,YES,1030.0,YES,11.04,NO,0.035,YES,,,21.02,02HC,Humber - Don,Atlantic Ocean,02HC-03,West Humber River
+6008310402,43.92418,-79.83452,59.9,NO,652.0,YES,10.67,NO,0.037,YES,,,18.48,02HC,Humber - Don,Atlantic Ocean,02HC-04,Bolton Dam - Humber River
+6008501402,43.68847,-79.36214,261.0,YES,1385.0,YES,11.70,NO,0.134,YES,,,21.21,02HC,Humber - Don,Atlantic Ocean,02HC-06,Don River
+6009701102,43.81086,-79.15978,203.0,YES,1125.0,YES,11.82,NO,0.028,NO,,,21.94,02HC,Humber - Don,Atlantic Ocean,02HC-07,Rouge River
+6009701802,43.89673,-79.32307,72.4,NO,750.5,YES,11.46,NO,0.029,NO,,,18.94,02HC,Humber - Don,Atlantic Ocean,02HC-07,Rouge River
+6010400102,43.83919,-79.03984,70.1,NO,648.5,YES,12.33,NO,0.021,NO,,,21.84,02HC,Humber - Don,Atlantic Ocean,02HC-08,Duffins Creek
+6010400802,43.96145,-79.12565,37.8,NO,615.5,YES,12.03,NO,0.020,NO,,,18.16,02HC,Humber - Don,Atlantic Ocean,02HC-08,Duffins Creek
+6011600102,43.89429,-78.67502,28.5,NO,497.5,NO,10.83,NO,0.021,NO,,,19.33,02HD,Ganaraska,Atlantic Ocean,029B-01,Bowmanville Creek
+6011600502,43.96982,-78.74750,14.1,NO,465.0,NO,10.51,NO,0.018,NO,,,16.04,02HD,Ganaraska,Atlantic Ocean,029B-01,Bowmanville Creek
+6011600602,44.04234,-78.73805,1.8,NO,354.0,NO,5.95,NO,0.012,NO,,,11.22,02HD,Ganaraska,Atlantic Ocean,029B-01,Bowmanville Creek
+6012900102,43.94789,-78.29238,15.4,NO,449.5,NO,11.18,NO,0.018,NO,,,22.46,02HD,Ganaraska,Atlantic Ocean,029B-02,Ganaraska River
+6012900202,44.01504,-78.43750,11.2,NO,421.5,NO,11.38,NO,0.015,NO,,,16.92,02HD,Ganaraska,Atlantic Ocean,029B-02,Ganaraska River
+6012900502,43.99062,-78.32816,9.5,NO,424.5,NO,11.78,NO,0.017,NO,,,20.12,02HD,Ganaraska,Atlantic Ocean,029B-02,Ganaraska River
+6015700102,43.99636,-77.51803,10.5,NO,292.0,NO,7.73,NO,0.021,NO,,,0.00,0209,,Atlantic Ocean,029C-03,Wellers Bay
+6015700302,44.03078,-77.28513,15.9,NO,474.0,NO,2.80,YES,0.051,YES,,,0.00,0209,,Atlantic Ocean,029C-03,Wellers Bay
+6018000202,44.40682,-76.60129,13.4,NO,288.0,NO,10.82,NO,0.019,NO,,,0.00,02HM,Napanee,Atlantic Ocean,02HM-10,Millhaven Creek
+6018000302,44.21406,-76.78015,17.4,NO,333.0,NO,10.64,NO,0.020,NO,,,0.00,02HM,Napanee,Atlantic Ocean,02HM-10,Millhaven Creek
+6018300202,44.25643,-76.61270,39.6,NO,525.0,YES,4.30,YES,0.067,YES,,,0.00,02HM,Napanee,Atlantic Ocean,02HM-11,Collins Creek
+80006,43.60506,-79.55975,,,,,11.16,NO,,,,,22.04,02HC,Humber - Don,Atlantic Ocean,02HC-01,Etobicoke Creek
+80007,43.67833,-79.67951,,,,,12.24,NO,,,,,23.98,02HC,Humber - Don,Atlantic Ocean,02HC-01,Etobicoke Creek
+8002100202,43.19331,-81.81386,,,,,,,,,,,24.73,02FF,Ausable,Atlantic Ocean,02FF-01,Old Ausable Channel - Ausable River
+8002200702,43.42774,-81.52283,,,,,,,,,,,18.85,02FF,Ausable,Atlantic Ocean,02FF-07,Black Creek - Ausable River
+8002201002,43.18091,-81.44766,,,,,,,,,,,25.17,02FF,Ausable,Atlantic Ocean,02FF-05,Little Ausable River - Ausable River
+8002201202,43.18501,-81.72902,,,,,,,,,,,23.21,02FF,Ausable,Atlantic Ocean,02FF-08,Parkhill Creek
+8002201602,43.36212,-81.50945,,,,,,,,,,,21.17,02FF,Ausable,Atlantic Ocean,02FF-07,Black Creek - Ausable River
+8002201902,43.18533,-81.85668,,,,,,,,,,,21.09,02FF,Ausable,Atlantic Ocean,02FF-01,Old Ausable Channel - Ausable River
+8002202002,43.07237,-81.66026,,,,,,,,,,,25.50,02FF,Ausable,Atlantic Ocean,02FF-03,Adelaide Creek - Ausable River
+8004000202,43.53778,-81.40662,,,,,,,,,,,22.02,02FF,Ausable,Atlantic Ocean,02FF-02,Bayfield River
+8004000802,43.55072,-81.58937,,,,,,,,,,,21.86,02FF,Ausable,Atlantic Ocean,02FF-02,Bayfield River
+8005600202,43.74887,-81.44592,,,,,,,,,,,19.43,02FE,Maitland,Atlantic Ocean,02FE-02,Blyth Brook - Maitland River
+8005600302,43.89550,-81.35350,,,,,,,,,,,22.41,02FE,Maitland,Atlantic Ocean,02FE-02,Blyth Brook - Maitland River
+8005600902,43.73037,-81.02807,,,,,,,,,,,22.58,02FE,Maitland,Atlantic Ocean,02FE-05,Boyle Drain - Middle Maitland River
+8005602002,43.69298,-81.09216,,,,,,,,,,,21.43,02FE,Maitland,Atlantic Ocean,02FE-05,Boyle Drain - Middle Maitland River
+8005603502,43.79870,-81.16987,,,,,,,,,,,19.99,02FE,Maitland,Atlantic Ocean,02FE-07,Little Maitland River
+8005603702,43.68462,-81.54090,,,,,,,,,,,22.09,02FE,Maitland,Atlantic Ocean,02FE-06,South Maitland River Outlet
+8005603802,43.88730,-81.28257,,,,,,,,,,,21.04,02FE,Maitland,Atlantic Ocean,02FE-04,Wingham - Maitland River
+8005603902,43.84005,-81.32055,,,,,,,,,,,21.09,02FE,Maitland,Atlantic Ocean,02FE-03,Middle Maitland River Outlet
+8005604102,43.70444,-81.24871,,,,,,,,,,,19.05,02FE,Maitland,Atlantic Ocean,02FE-03,Middle Maitland River Outlet
+8012300202,44.13468,-81.15386,,,,,,,,,,,22.32,02FC,Saugeen,Atlantic Ocean,02FC-02,Vesta Creek - Saugeen River
+8012303002,44.45610,-81.32604,,,,,,,,,,,22.66,02FC,Saugeen,Atlantic Ocean,02FC-01,Saugeen River Outlet
+8012304402,44.15257,-81.28637,,,,,,,,,,,21.21,02FC,Saugeen,Atlantic Ocean,02FC-06,Teeswater River Outlet
+8012304802,44.03543,-80.58141,,,,,,,,,,,22.36,02FC,Saugeen,Atlantic Ocean,02FC-10,Mount Forest Dam - South Saugeen River
+8012305002,44.13098,-80.96737,,,,,,,,,,,22.57,02FC,Saugeen,Atlantic Ocean,02FC-12,Beatty Saugeen River
+8012305102,44.09853,-80.98513,,,,,,,,,,,23.35,02FC,Saugeen,Atlantic Ocean,02FC-04,South Saugeen River Outlet
+8012305202,44.24720,-80.46003,,,,,,,,,,,21.53,02FC,Saugeen,Atlantic Ocean,02FC-09,Upper Durham Dam - Saugeen River
+8012305302,44.21263,-80.86270,,,,,,,,,,,20.24,02FC,Saugeen,Atlantic Ocean,02FC-11,Rocky Saugeen River
+8012305602,44.41530,-81.38327,,,,,,,,,,,22.69,02FC,Saugeen,Atlantic Ocean,02FC-01,Saugeen River Outlet
+8012305702,44.18581,-80.78749,,,,,,,,,,,19.96,02FC,Saugeen,Atlantic Ocean,02FC-09,Upper Durham Dam - Saugeen River
+8012305802,44.33514,-80.97633,,,,,,,,,,,20.33,02FC,Saugeen,Atlantic Ocean,02FC-13,North Saugeen River
+8012305902,44.31874,-81.24326,,,,,,,,,,,24.10,02FC,Saugeen,Atlantic Ocean,02FC-13,North Saugeen River
+8013500302,44.67718,-81.25546,,,,,,,,,,,21.82,02FA,Bruce Peninsula,Atlantic Ocean,02FA-01,Sauble River Outlet
+8013500502,44.53530,-81.17766,,,,,,,,,,,24.42,02FA,Bruce Peninsula,Atlantic Ocean,02FA-01,Sauble River Outlet
+8013500602,44.64474,-81.18540,,,,,,,,,,,16.36,02FA,Bruce Peninsula,Atlantic Ocean,02FA-01,Sauble River Outlet
+83002,43.73687,-79.62832,188.0,YES,,,9.72,NO,,,,,23.18,02HC,Humber - Don,Atlantic Ocean,02HC-03,West Humber River
+83004,43.79807,-79.58106,134.0,YES,,,11.26,NO,,,,,20.35,02HC,Humber - Don,Atlantic Ocean,02HC-05,East Humber River
+83009,43.88810,-79.71796,,,,,11.23,NO,,,,,14.85,02HC,Humber - Don,Atlantic Ocean,02HC-02,Black Creek - Humber River Outlet
+83012,43.67485,-79.50532,369.0,YES,,,12.33,NO,,,,,21.89,02HC,Humber - Don,Atlantic Ocean,02HC-02,Black Creek - Humber River Outlet
+83018,43.92614,-79.80321,,,,,10.36,NO,,,,,19.06,02HC,Humber - Don,Atlantic Ocean,02HC-04,Bolton Dam - Humber River
+83019,43.65144,-79.49133,,,,,11.82,NO,,,,,23.55,02HC,Humber - Don,Atlantic Ocean,02HC-02,Black Creek - Humber River Outlet
+83020,43.81158,-79.62751,60.6,NO,,,10.63,NO,,,,,21.21,02HC,Humber - Don,Atlantic Ocean,02HC-02,Black Creek - Humber River Outlet
+83103,43.75824,-79.67844,,,,,10.88,NO,,,,,21.36,02HC,Humber - Don,Atlantic Ocean,02HC-03,West Humber River
+83104,43.92418,-79.83452,,,,,10.31,NO,,,,,18.86,02HC,Humber - Don,Atlantic Ocean,02HC-04,Bolton Dam - Humber River
+85003,43.80313,-79.39688,221.0,YES,,,11.06,NO,,,,,19.50,02HC,Humber - Don,Atlantic Ocean,02HC-06,Don River
+85004,43.80387,-79.48313,412.5,YES,,,10.95,NO,,,,,21.32,02HC,Humber - Don,Atlantic Ocean,02HC-06,Don River
+85014,43.68847,-79.36214,,,,,11.43,NO,,,,,21.56,02HC,Humber - Don,Atlantic Ocean,02HC-06,Don River
+9000100402,43.20035,-79.82013,311.5,YES,1715.0,YES,10.96,NO,0.067,YES,,,19.04,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-01,Burlington Canal - Hamilton Harbour
+9000100502,43.23246,-79.78475,278.0,YES,1520.0,YES,12.77,NO,0.027,NO,,,24.08,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-01,Burlington Canal - Hamilton Harbour
+9000800502,43.26519,-79.96423,83.6,NO,814.0,YES,10.14,NO,0.033,YES,,,21.15,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-01,Burlington Canal - Hamilton Harbour
+9000800602,43.28300,-80.05309,58.2,NO,710.0,YES,9.93,NO,0.040,YES,,,22.01,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-01,Burlington Canal - Hamilton Harbour
+9000800702,43.35304,-80.07795,52.1,NO,683.0,YES,8.50,NO,0.018,NO,,,21.14,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-01,Burlington Canal - Hamilton Harbour
+9000902402,43.30128,-79.86887,113.5,NO,891.0,YES,10.59,NO,0.038,YES,,,20.40,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-01,Burlington Canal - Hamilton Harbour
+97003,43.85846,-79.23325,216.5,YES,,,11.32,NO,,,,,22.92,02HC,Humber - Don,Atlantic Ocean,02HC-07,Rouge River
+97007,43.85933,-79.20442,113.0,NO,,,11.36,NO,,,,,21.87,02HC,Humber - Don,Atlantic Ocean,02HC-07,Rouge River
+97011,43.81086,-79.15978,,,,,11.55,NO,,,,,22.76,02HC,Humber - Don,Atlantic Ocean,02HC-07,Rouge River
+97013,43.81368,-79.15677,117.5,NO,,,11.29,NO,,,,,22.28,02HC,Humber - Don,Atlantic Ocean,02HC-07,Rouge River
+97018,43.89673,-79.32307,,,,,11.38,NO,,,,,19.04,02HC,Humber - Don,Atlantic Ocean,02HC-07,Rouge River
+97777,43.85230,-79.33012,303.0,YES,,,8.83,NO,,,,,20.41,02HC,Humber - Don,Atlantic Ocean,02HC-07,Rouge River
+97999,43.91468,-79.24897,108.0,NO,,,10.33,NO,,,,,20.10,02HC,Humber - Don,Atlantic Ocean,02HC-07,Rouge River
+BALSAM LAKE N Bay Rocky Pt.,44.63306,-78.83944,6.3,NO,,,,,,,,,0.00,02HF,Gull,Atlantic Ocean,02HF-01,Cameron Lake Dam - Fenelon River
+BALSAM LAKE NE end-Lightning Pt,44.63000,-78.81194,6.5,NO,,,,,,,,,0.00,02HF,Gull,Atlantic Ocean,02HF-01,Cameron Lake Dam - Fenelon River
+BALSAM LAKE South B-Killarney B,44.51833,-78.85833,7.1,NO,,,,,,,,,0.00,02HF,Gull,Atlantic Ocean,02HF-01,Cameron Lake Dam - Fenelon River
+Bayside Narrows,44.11692,-77.47676,,,,,,,0.020,NO,,,0.00,0209,,Atlantic Ocean,029C-02,Telegraph Narrows - Bay of Quinte
+BELWOOD LAKE Mid north/west end,43.77806,-80.33750,14.9,NO,,,,,,,,,0.00,02GA,Upper Grand,Atlantic Ocean,02GA-08,Lake Belwood - Grand River
+BUCKHORN LAKE (U) Narrows-redbuoy C310,44.55167,-78.34667,12.3,NO,,,,,,,,,0.00,02HH,Kawartha Lakes,Atlantic Ocean,02HH-02,Burleigh Falls Dam - Lower Buckhorn Lake
+Cootes Paradise - Boathouse Bay,43.28323,-79.89688,,,,,8.23,NO,,,,,0.00,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-01,Burlington Canal - Hamilton Harbour
+Cootes Paradise - Chedoke Bay,43.27424,-79.89559,,,931.0,YES,4.22,YES,,,,,24.96,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-01,Burlington Canal - Hamilton Harbour
+Cootes Paradise - East End,43.27922,-79.89738,,,796.0,YES,8.18,NO,,,,,24.24,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-01,Burlington Canal - Hamilton Harbour
+Cootes Paradise - Mid Marsh,43.27480,-79.90676,,,809.0,YES,7.98,NO,0.077,YES,,,23.85,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-01,Burlington Canal - Hamilton Harbour
+Cootes Paradise - West End,43.27274,-79.91481,,,849.0,YES,7.30,NO,0.055,YES,,,24.11,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-01,Burlington Canal - Hamilton Harbour
+Cootes Paradise - West Pond,43.27055,-79.93032,,,1071.0,YES,7.76,NO,,,,,23.75,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-01,Burlington Canal - Hamilton Harbour
+Cootes Paradise - Westdale Inlet,43.27096,-79.90401,,,884.0,YES,6.18,NO,,,,,24.12,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-01,Burlington Canal - Hamilton Harbour
+CRL-1,44.77857,-78.71648,,,,,,,,,,,0.00,02HF,Gull,Atlantic Ocean,02HF-02,Goose Lake - Burnt River
+CRL-2,44.77691,-78.71213,,,,,,,,,,,0.00,02HF,Gull,Atlantic Ocean,02HF-02,Goose Lake - Burnt River
+CRL-3,44.77678,-78.70552,,,,,,,,,,,0.00,02HF,Gull,Atlantic Ocean,02HF-02,Goose Lake - Burnt River
+CRL-4,44.77077,-78.71899,,,,,,,,,,,0.00,02HF,Gull,Atlantic Ocean,02HF-02,Goose Lake - Burnt River
+CRL-5,44.77220,-78.71232,,,,,,,,,,,0.00,02HF,Gull,Atlantic Ocean,02HF-02,Goose Lake - Burnt River
+Dead Creek Mouth,44.06834,-77.58557,,,,,,,0.019,NO,,,0.00,0209,,Atlantic Ocean,029C-02,Telegraph Narrows - Bay of Quinte
+DM 6.0,43.70311,-79.33222,396.5,YES,,,11.30,NO,,,,,20.08,02HC,Humber - Don,Atlantic Ocean,02HC-06,Don River
+DN008WM,43.79950,-79.38084,260.0,YES,,,11.47,NO,,,,,19.89,02HC,Humber - Don,Atlantic Ocean,02HC-06,Don River
+DRAG RIVER Drag River-ScottsDam,44.93444,-78.63333,6.7,NO,,,,,,,,,0.00,02HF,Gull,Atlantic Ocean,02HF-07,Drag River
+Grindstone Marsh - Carolls Bay,43.28863,-79.88716,,,748.0,YES,7.76,NO,,,,,24.02,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-01,Burlington Canal - Hamilton Harbour
+Grindstone Marsh - Long Pond,43.29211,-79.88766,,,1209.0,YES,7.64,NO,,,,,25.20,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-01,Burlington Canal - Hamilton Harbour
+Grindstone Marsh - Sunfish Pond,43.29030,-79.88586,,,,,8.20,NO,,,,,0.00,02HB,Credit - 16 Mile,Atlantic Ocean,02HB-01,Burlington Canal - Hamilton Harbour
+Hay Bay Mouth,44.09333,-77.07167,,,,,,,0.034,YES,,,0.00,0209,,Atlantic Ocean,029C-01,Aldophus Reach - Bay of Quinte
+HU010WM,43.74678,-79.57243,109.0,NO,,,12.04,NO,,,,,22.62,02HC,Humber - Don,Atlantic Ocean,02HC-02,Black Creek - Humber River Outlet
+HU1RWMP,43.77835,-79.52523,586.5,YES,,,10.53,NO,,,,,19.75,02HC,Humber - Don,Atlantic Ocean,02HC-02,Black Creek - Humber River Outlet
+KASHAGAWIGAMOG LAKE S/W end nr Ingoldsby,44.96361,-78.62417,6.1,NO,,,,,,,,,0.00,02HF,Gull,Atlantic Ocean,02HF-07,Drag River
+KASHAGAWIGAMOG LAKE StnA-S-end Puffers Is.,44.97194,-78.61139,6.0,NO,,,,,,,,,0.00,02HF,Gull,Atlantic Ocean,02HF-07,Drag River
+KATCHEWANOOKA LAKE S/E Douglas Island,44.46667,-78.24889,10.8,NO,,,,,,,,,0.00,02HH,Kawartha Lakes,Atlantic Ocean,02HH-01,Stony Lake - Katchewanooka Lake
+KATCHEWANOOKA LAKE Young Pt near locks,44.48222,-78.23806,10.6,NO,,,,,,,,,0.00,02HH,Kawartha Lakes,Atlantic Ocean,02HH-01,Stony Lake - Katchewanooka Lake
+Lake Scugog:Port Perry Marina near Palmer Park,44.10609,-78.94074,,,427.0,NO,7.00,NO,,,,,0.00,02HG,Scugog,Atlantic Ocean,02HG-01,Lake Scugog - Scugog River
+Little Etob CK,43.61021,-79.56848,568.5,YES,,,11.25,NO,,,,,20.88,02HC,Humber - Don,Atlantic Ocean,02HC-01,Etobicoke Creek
+LITTLE LONG LAKE Deep spot,44.68333,-78.14722,0.4,NO,,,,,,,,,0.00,02HH,Kawartha Lakes,Atlantic Ocean,02HH-09,Deer Bay Creek
+LOVESICK LAKE 80' hole at N. end,44.56306,-78.23639,12.0,NO,,,,,,,,,0.00,02HH,Kawartha Lakes,Atlantic Ocean,02HH-02,Burleigh Falls Dam - Lower Buckhorn Lake
+LOVESICK LAKE McCallum Island,44.55361,-78.22722,11.9,NO,,,,,,,,,0.00,02HH,Kawartha Lakes,Atlantic Ocean,02HH-02,Burleigh Falls Dam - Lower Buckhorn Lake
+LOWER BUCKHORN LAKE Deer Bay W-Buoy C267,44.56194,-78.30778,11.9,NO,,,,,,,,,0.00,02HH,Kawartha Lakes,Atlantic Ocean,02HH-02,Burleigh Falls Dam - Lower Buckhorn Lake
+LOWER BUCKHORN LAKE Deer Bay-centre,44.53389,-78.27250,12.1,NO,,,,,,,,,0.00,02HH,Kawartha Lakes,Atlantic Ocean,02HH-02,Burleigh Falls Dam - Lower Buckhorn Lake
+LOWER BUCKHORN LAKE Heron Island,44.55083,-78.27250,12.3,NO,,,,,,,,,0.00,02HH,Kawartha Lakes,Atlantic Ocean,02HH-02,Burleigh Falls Dam - Lower Buckhorn Lake
+Lower Etob US,43.65611,-79.62516,296.5,YES,,,12.54,NO,,,,,24.95,02HC,Humber - Don,Atlantic Ocean,02HC-01,Etobicoke Creek
+Mayfield,43.73834,-79.81991,127.5,YES,,,7.85,NO,,,,,20.87,02HC,Humber - Don,Atlantic Ocean,02HC-01,Etobicoke Creek
+Moira Lake:Kiwanis Boat Launch off Hwy 62 S of Madoc,44.47899,-77.46773,,,276.0,NO,5.00,YES,,,,,0.00,02HL,Moira,Atlantic Ocean,02HL-04,Moira Lake at Downey's Weir - Moira River
+Moira River:Mouth of Moira River where it enters Bay of Quinte,44.16004,-77.38310,,,257.0,NO,6.00,NO,,,,,0.00,02HL,Moira,Atlantic Ocean,02HL-01,Palliser Creek - Moira River Outlet
+Muscote Bay,44.09328,-77.30211,,,,,,,0.025,NO,,,0.00,0209,,Atlantic Ocean,029C-02,Telegraph Narrows - Bay of Quinte
+Napanee River Mouth,44.19104,-77.03259,,,,,,,0.031,YES,,,0.00,0209,,Atlantic Ocean,029C-01,Aldophus Reach - Bay of Quinte
+NIAGARA ON THE LAKE LIGHTHOUSE,43.25000,-79.06000,17.4,NO,,,,,0.011,NO,,,22.62,02HA,Niagara,Atlantic Ocean,02HA-01,Niagara River
+NIAGARA RIVER AUTOMATIC DAILY STATION,42.93000,-78.91000,17.2,NO,,,,,0.010,NO,,,22.57,02HA,Niagara,Atlantic Ocean,02HA-01,Niagara River
+Nonquon River:Nonquon River Environmental Education Centre,44.14603,-78.97149,,,663.0,YES,5.00,YES,,,,,0.00,02HG,Scugog,Atlantic Ocean,02HG-04,Nonquon River
+Ottawa River:Remic Beach,45.40746,-75.74689,,,,,,,,,,,24.67,02KF,Central Ottawa - Mississippi,Atlantic Ocean,02KF-01,Chaudière Falls - Ottawa River
+Picton Harbour on Lake Ontario:Picton Harbour at Mouth of Marsh Creek,44.00899,-77.13645,,,330.0,NO,5.00,YES,,,,,24.38,0209,,Atlantic Ocean,029C-01,Aldophus Reach - Bay of Quinte
+Picton Harbour/Bay,44.01388,-77.13326,,,,,,,0.031,YES,,,0.00,0209,,Atlantic Ocean,029C-01,Aldophus Reach - Bay of Quinte
+PIGEON LAKE C340-DeadHorseSho,44.52056,-78.50250,11.3,NO,,,,,,,,,0.00,02HH,Kawartha Lakes,Atlantic Ocean,02HH-03,Pigeon Lake - Gannon Narrows
+PIGEON LAKE Middle-SandyPtBoyd I,44.49944,-78.49972,11.1,NO,,,,,,,,,0.00,02HH,Kawartha Lakes,Atlantic Ocean,02HH-03,Pigeon Lake - Gannon Narrows
+PIGEON LAKE N end-Adjacent Con17,44.56861,-78.48528,11.0,NO,,,,,,,,,0.00,02HH,Kawartha Lakes,Atlantic Ocean,02HH-03,Pigeon Lake - Gannon Narrows
+PIGEON LAKE N300yds off Bottom I,44.56250,-78.51250,10.6,NO,,,,,,,,,0.00,02HH,Kawartha Lakes,Atlantic Ocean,02HH-03,Pigeon Lake - Gannon Narrows
+PIGEON LAKE N-400m N of Boyd Is.,44.55028,-78.50167,10.6,NO,,,,,,,,,0.00,02HH,Kawartha Lakes,Atlantic Ocean,02HH-03,Pigeon Lake - Gannon Narrows
+POINT EDWARD,43.00000,-82.41000,8.4,NO,,,,,,,,,22.45,02GG,Sydenham,Atlantic Ocean,02GGA01,Clay Creek - St. Clair River
+Pond at McCauley Mountain Conservation Area:Birdhouse City Pond,44.00469,-77.12601,,,313.0,NO,6.00,NO,,,,,0.00,0209,,Atlantic Ocean,029C-01,Aldophus Reach - Bay of Quinte
+PORT LAMBTON,42.65000,-82.50000,8.0,NO,,,,,,,,,22.13,02GG,Sydenham,Atlantic Ocean,02GGB01,Lake St. Clair Shoreline - St. Clair River
+Salmon River Mouth,44.17399,-77.25723,,,,,,,0.022,NO,,,0.00,0209,,Atlantic Ocean,029C-02,Telegraph Narrows - Bay of Quinte
+Spring Creek,43.68858,-79.66005,304.0,YES,,,12.12,NO,,,,,23.91,02HC,Humber - Don,Atlantic Ocean,02HC-01,Etobicoke Creek
+ST. LAWRENCE RIVER (SOUTH CHANNEL),44.20000,-76.23000,,,,,,,,,,,21.13,02MA,Cataraqui,Atlantic Ocean,02MA-02,Lake of the Isles - St. Lawrence River
+STONY LAKE Hamilton Bay,44.54500,-78.12194,10.4,NO,,,,,,,,,0.00,02HH,Kawartha Lakes,Atlantic Ocean,02HH-01,Stony Lake - Katchewanooka Lake
+STONY LAKE Mouse Is.,44.55306,-78.11611,10.7,NO,,,,,,,,,0.00,02HH,Kawartha Lakes,Atlantic Ocean,02HH-01,Stony Lake - Katchewanooka Lake
+Trent River Mouth,44.09777,-77.56866,,,,,,,0.018,NO,,,0.00,0209,,Atlantic Ocean,029C-02,Telegraph Narrows - Bay of Quinte
+Tributary 3,43.66525,-79.66143,581.5,YES,,,12.40,NO,,,,,24.31,02HC,Humber - Don,Atlantic Ocean,02HC-01,Etobicoke Creek
+Tributary 4,43.62791,-79.56774,296.5,YES,,,11.48,NO,,,,,21.05,02HC,Humber - Don,Atlantic Ocean,02HC-01,Etobicoke Creek
+UPPER STONEY LAKE Crowes Landing,44.56444,-78.06639,7.8,NO,,,,,,,,,0.00,02HH,Kawartha Lakes,Atlantic Ocean,02HH-01,Stony Lake - Katchewanooka Lake
+UPPER STONEY LAKE Quarry Bay,44.58611,-78.05306,7.6,NO,,,,,,,,,0.00,02HH,Kawartha Lakes,Atlantic Ocean,02HH-01,Stony Lake - Katchewanooka Lake
+UPPER STONEY LAKE Young Bay,44.58111,-78.08472,7.9,NO,,,,,,,,,0.00,02HH,Kawartha Lakes,Atlantic Ocean,02HH-01,Stony Lake - Katchewanooka Lake
